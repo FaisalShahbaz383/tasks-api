@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://your-task-api.onrender.com",
+      "url": "https://tasks-api-ocbl.onrender.com",
       "description": "Production Server (Render)"
     },
     {
