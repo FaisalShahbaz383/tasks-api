@@ -44,7 +44,7 @@ A ready-to-use Postman collection is included in this repository:
 
 1. **Clone repository:**
    ```bash
-   git clone [https://github.com/FaisalShahbaz383/tasks-api.git](https://github.com/FaisalShahbaz383/tasks-api.git)
+   git clone https://github.com/FaisalShahbaz383/tasks-api.git
    cd tasks-api
 Install dependencies:
 
