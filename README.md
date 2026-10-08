@@ -4,7 +4,7 @@ A production-ready, secure RESTful API for a Task Management System built using 
 
 ## 🚀 Live Demo & Documentation
 * **Deployed API Base URL:** https://tasks-api-ocbl.onrender.com
-* **Interactive Swagger UI Docs:** http://localhost:5000/api-docs
+* **Interactive Swagger UI Docs:** https://tasks-api-ocbl.onrender.com/api-docs
 
 ---
 
