@@ -3,7 +3,7 @@
 A production-ready, secure RESTful API for a Task Management System built using Node.js, Express, MongoDB Atlas, and Mongoose. Includes JWT authentication, request validation, error handling, and interactive Swagger API documentation.
 
 ## 🚀 Live Demo & Documentation
-* **Deployed API Base URL:** 
+* **Deployed API Base URL:** https://tasks-api-ocbl.onrender.com
 * **Interactive Swagger UI Docs:** http://localhost:5000/api-docs
 
 ---
