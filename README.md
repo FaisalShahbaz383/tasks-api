@@ -32,6 +32,10 @@ A production-ready, secure RESTful API for a Task Management System built using 
 
 ---
 
+## 🧪 API Testing
+A ready-to-use Postman collection is included in this repository:
+`postman/tasks-api_postman_collection`
+
 ## ⚡ Local Setup
 
 1. **Clone repository:**
